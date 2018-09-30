@@ -1,2 +1,3 @@
-dev branch fourth  file [Added changes remotely]
+dev branch fourth  file
 Added new line remotely.
+dev branch fourth  file [Added changes locally]
