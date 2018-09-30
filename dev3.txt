@@ -1,2 +1,3 @@
 dev branch third file
 line added remotely
+line added locally
