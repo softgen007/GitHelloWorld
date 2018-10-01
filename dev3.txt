@@ -1,2 +1,2 @@
 added new dev file 3
-added line from master branch
+added line from dev branch
